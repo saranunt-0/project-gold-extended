@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "gold_extended"
+version = "1.0.0"
+name = "Gold Extended - Brushstroke FX"
+tagline = "Painterly rain, snow, clouds, grass, hair, fire and water"
+maintainer = "Gold Extended Authors"
+type = "add-on"
+
+website = "https://github.com/saranunt-0/project-gold-extended"
+tags = ["Paint", "Geometry Nodes", "Material", "Animation"]
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2026 Gold Extended Authors",
+  "2025 Blender Studio Tools Authors (compat layer adapted from Brushstroke Tools)",
+]
+
+[permissions]
+files = "Read Brushstroke Tools brush libraries and store user presets"
